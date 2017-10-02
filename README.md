@@ -10,10 +10,8 @@ Prior scholars have done a couple of researches about the potential of social me
 
 ## Work Breakdown:
 
-API implementing: Juncheng Chen
-
-Data Analysis   : Luyi Yang
-
-User Interface  : Xiang Zhang
+API implementing: Juncheng Chen\
+Data Analysis   : Luyi Yang\
+User Interface  : Fred Zhang
 
 Note: Although each of the three parts has assigned to a specific person, it shares everyone’s contributions and all the members participated during the entire process. 
